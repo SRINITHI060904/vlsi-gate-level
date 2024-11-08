@@ -1,1 +1,7 @@
-# vlsi-gate-level
+module gates (………….);
+input ………;
+output ……..;
+.
+.
+.
+endmodule
